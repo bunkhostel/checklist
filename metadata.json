@@ -1,0 +1,6 @@
+{
+  "name": "Bunk Hostel - Housekeeping Checklist & Admin Audit Portal",
+  "description": "Unified multi-property housekeeping and audit portal supporting Landlopers, Tapovan, Delhi, and Rishikesh with bilingual audio checklists, visual validation, and proof of work uploads.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
